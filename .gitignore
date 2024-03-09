@@ -1,0 +1,10 @@
+.venv
+venv
+__pycache__
+.vscode
+flagged
+temp
+cache/*
+!cache/.gitkeep
+.locks
+test/*

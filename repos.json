@@ -1,0 +1,44 @@
+{
+  "repos": [
+    {
+      "name": "wd-vit-v3",
+      "repo": "SmilingWolf/wd-vit-tagger-v3",
+      "isload": false
+    },
+    {
+      "name": "wd-swinv2-v3",
+      "repo": "SmilingWolf/wd-swinv2-tagger-v3",
+      "isload": false
+    },
+    {
+      "name": "wd-convnext-v3",
+      "repo": "SmilingWolf/wd-convnext-tagger-v3",
+      "isload": false
+    },
+    {
+      "name": "wd14-moat-v2",
+      "repo": "SmilingWolf/wd-v1-4-moat-tagger-v2",
+      "isload": true
+    },
+    {
+      "name": "wd14-swinv2-v2",
+      "repo": "SmilingWolf/wd-v1-4-swinv2-tagger-v2",
+      "isload": false
+    },
+    {
+      "name": "wd14-convnext-v2",
+      "repo": "SmilingWolf/wd-v1-4-convnext-tagger-v2",
+      "isload": false
+    },
+    {
+      "name": "wd14-convnextv2-v2",
+      "repo": "SmilingWolf/wd-v1-4-convnextv2-tagger-v2",
+      "isload": false
+    },
+    {
+      "name": "wd14-vit-v2",
+      "repo": "SmilingWolf/wd-v1-4-vit-tagger-v2",
+      "isload": false
+    }
+  ]
+}
